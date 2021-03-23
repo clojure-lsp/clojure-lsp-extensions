@@ -1,4 +1,4 @@
-(defproject clojure-lsp/clojure-lsp-extensions "1.0.1"
+(defproject clojure-lsp/clojure-lsp-extensions "1.0.2"
   :description "clojure-lsp java extensions"
   :url "http://github.com/clojure-lsp/clojure-lsp-extensions"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
